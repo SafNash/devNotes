@@ -9,3 +9,7 @@
 #### 4-5-2024
 
 - Completed Learn Functional Programing by Building a Spreadsheet
+
+#### 4-6-2024
+
+- Completed Build a Telephone Number Validator Project
