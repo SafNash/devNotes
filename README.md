@@ -13,3 +13,7 @@
 #### 4-6-2024
 
 - Completed Build a Telephone Number Validator Project
+
+#### 4-6-2024
+
+- Completed learn basic OOP by building a shopping cart
