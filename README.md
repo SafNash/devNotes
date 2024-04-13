@@ -21,3 +21,7 @@
 #### 4-11-2024
 
 - progressed in Learn Intermediate OOP by Building a Platformer Game
+
+#### 4-12-2024
+
+- Completed Learn Intermediate OOP by Building a Platformer Game
