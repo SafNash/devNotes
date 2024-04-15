@@ -26,6 +26,10 @@
 
 - Completed Learn Intermediate OOP by Building a Platformer Game
 
-#### 4-12-2024
+#### 4-13-2024
 
 - Completed Learn Intermediate Algorithmic Thinking by Building a Dice Game
+
+#### 4-14-2024
+
+- Completed learn Fetch an Promises by Building an fcc Authors Page, and began Build a Cash Register Project
