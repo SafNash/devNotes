@@ -33,3 +33,7 @@
 #### 4-14-2024
 
 - Completed learn Fetch an Promises by Building an fcc Authors Page, and began Build a Cash Register Project
+
+#### 4-15-2024
+
+- Completed Learn Asynchronous Programming by Building an fCC Forum Leaderboard
