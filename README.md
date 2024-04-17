@@ -37,3 +37,7 @@
 #### 4-15-2024
 
 - Completed Learn Asynchronous Programming by Building an fCC Forum Leaderboard
+
+#### 4-16-2024
+
+- Progressed in Build a Cash Register Project
