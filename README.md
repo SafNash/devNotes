@@ -41,3 +41,8 @@
 #### 4-16-2024
 
 - Progressed in Build a Cash Register Project
+
+#### 4-21-2024
+
+- finished Build a Cash Register Project
+
