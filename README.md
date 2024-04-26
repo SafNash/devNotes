@@ -44,5 +44,9 @@
 
 #### 4-21-2024
 
-- finished Build a Cash Register Project
+- Finished Build a Cash Register Project
+
+#### 4-25-2024
+
+- Started Build a Pokemon Search App Project
 
