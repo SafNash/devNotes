@@ -50,3 +50,7 @@
 
 - Started Build a Pokemon Search App Project
 
+#### 4-27-2024
+
+- Progressed in Build a Pokemon Search App Project
+
