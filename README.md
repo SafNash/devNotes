@@ -62,3 +62,8 @@
 
 - Finished Build a Pokemon Search App Project
 
+
+#### 5-2-2024
+
+- Began The Frontend Developer Career Path
+
