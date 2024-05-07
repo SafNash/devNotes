@@ -67,3 +67,9 @@
 
 - Began The Frontend Developer Career Path
 
+
+#### 5-6-2024
+
+- Finished Web dev basics in Frontend Developer Career Path
+
+
