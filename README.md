@@ -72,4 +72,8 @@
 
 - Finished Web dev basics in Frontend Developer Career Path
 
+#### 5-22-2024
+
+- Progressed in Essential JavaScript concepts
+
 
