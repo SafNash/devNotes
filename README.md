@@ -77,3 +77,8 @@
 - Progressed in Essential JavaScript concepts
 
 
+#### 5-27-2024
+
+- Progressed in Essential JavaScript concepts
+
+
